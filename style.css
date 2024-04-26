@@ -1,0 +1,55 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #4fccebc9 !important;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #5f5656;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+/* Navigation bar */
+.navbar-brand {
+    font-size: 24px;
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px;
+}
+
+/* Services page */
+.container ul {
+    list-style-type: none;
+}
+
+.container ul li {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+/* Gallery page */
+.row {
+    margin-top: 30px;
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
